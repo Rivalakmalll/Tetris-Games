@@ -4,4 +4,4 @@
  but put the original repo links if u want to claim and edit code by ur self!!
 Classical games Use Code JavaScript, HTML5, CSS
  
-# thx dont forget make pull request to help me happy ^_^
+# thx and dont forget make pull request to help me happy ^_^
