@@ -6,4 +6,4 @@
  
  Classical games Use Code JavaScript, HTML5, CSS
  
-# thx and dont forget make pull request to help me happy ^_^
+# thx and dont forget make pull request to make me happy ^_^
